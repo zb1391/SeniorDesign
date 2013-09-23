@@ -1,0 +1,9 @@
+PigParty is my Senior Design Project from Spring 2013.
+
+PigParty is a unique Android game which allows users to connect their phone to their computer to play simple mini games. These minigames were designed with the intention of showcasing the benefits of using a phone as a controller. 
+
+I was responsible for all of the Android code associated with this project. I have included a subfolder with the HTML5 and nodejs aspects of this project, but I am not 100% sure these are the final files for this half of our project.
+
+For a conceptual overview of the project please open the CapstonePoster.pdf which includes an overview of the design/implementation and images/descriptions of the three mini-games we created.
+
+
